@@ -12,7 +12,7 @@
             "required": true
         },
         "TG_BOT_TOKEN": {
-            "description": "تـــوكـــن البـــوت المســاعـد الخــاص بـك - مـن بـوت فـاذر〔 Botfather@ 〕..",
+            "description": "تـــوكـــن البـــوت المســاعـد الخــاص بك ",
             "required": true,
             "value":""
         },
@@ -22,12 +22,12 @@
             "value":""
         },
         "APP_ID": {
-            "description": "كـود ايبي ايـدي〔 App id ",
+            "description": "كـود ايبي ايـدي ",
             "required": true,
             "value":" "
         },
         "API_HASH": {
-            "description": "كـود ايبي هـاش〔 Api Hash 〕",
+            "description": "كـود ايبي هـاش",
             "required": true,
             "value":" "
         },
